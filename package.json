@@ -17,7 +17,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://workbee49.github.io/cb_home_frontend",
+  "homepage": "https://workbee49cbhome.com",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
